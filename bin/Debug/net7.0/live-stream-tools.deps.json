@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "live-stream-tools/1.0.0": {
+        "runtime": {
+          "live-stream-tools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "live-stream-tools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

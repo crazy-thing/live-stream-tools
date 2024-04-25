@@ -1,0 +1,14 @@
+C:\Users\crazy\Documents\LiveStreamTools\live-stream-tools\obj\Debug\net7.0\live-stream-tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crazy\Documents\LiveStreamTools\live-stream-tools\obj\Debug\net7.0\live-stream-tools.AssemblyInfoInputs.cache
+C:\Users\crazy\Documents\LiveStreamTools\live-stream-tools\obj\Debug\net7.0\live-stream-tools.AssemblyInfo.cs
+C:\Users\crazy\Documents\LiveStreamTools\live-stream-tools\obj\Debug\net7.0\live-stream-tools.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Documents\LiveStreamTools\live-stream-tools\bin\Debug\net7.0\live-stream-tools.exe
+C:\Users\crazy\Documents\LiveStreamTools\live-stream-tools\bin\Debug\net7.0\live-stream-tools.deps.json
+C:\Users\crazy\Documents\LiveStreamTools\live-stream-tools\bin\Debug\net7.0\live-stream-tools.runtimeconfig.json
+C:\Users\crazy\Documents\LiveStreamTools\live-stream-tools\bin\Debug\net7.0\live-stream-tools.dll
+C:\Users\crazy\Documents\LiveStreamTools\live-stream-tools\bin\Debug\net7.0\live-stream-tools.pdb
+C:\Users\crazy\Documents\LiveStreamTools\live-stream-tools\obj\Debug\net7.0\live-stream-tools.dll
+C:\Users\crazy\Documents\LiveStreamTools\live-stream-tools\obj\Debug\net7.0\refint\live-stream-tools.dll
+C:\Users\crazy\Documents\LiveStreamTools\live-stream-tools\obj\Debug\net7.0\live-stream-tools.pdb
+C:\Users\crazy\Documents\LiveStreamTools\live-stream-tools\obj\Debug\net7.0\live-stream-tools.genruntimeconfig.cache
+C:\Users\crazy\Documents\LiveStreamTools\live-stream-tools\obj\Debug\net7.0\ref\live-stream-tools.dll
