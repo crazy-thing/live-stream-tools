@@ -1,5 +1,5 @@
 # Countdown 
-[![Download here](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/crazy-thing/countdown/releases) [![License](https://img.shields.io/badge/License-GPL--3-0FC269?style=for-the-badge)](https://github.com/crazy-thing/countdown/blob/main/LICENSE) [![Release](https://img.shields.io/badge/Release-v.1.0.0-20A6A5?style=for-the-badge)](https://github.com/crazy-thing/countdown/releases/tag/v1.0.0)
+[![Download here](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/crazy-thing/live-stream-tools/releases/tag/1.0.0) [![License](https://img.shields.io/badge/License-GPL--3-0FC269?style=for-the-badge)](https://github.com/crazy-thing/countdown/blob/main/LICENSE) [![Release](https://img.shields.io/badge/Release-v.1.0.0-20A6A5?style=for-the-badge)](https://github.com/crazy-thing/countdown/releases/tag/v1.0.0)
 
 This program was created for a church as a simple way to display a countdown timer and bible verses on their live stream. It's been tested using OBS studio displaying the bible verses as a browser source and the countdown timer as a text file.
 
